@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_phonebook=self.webpackChunkreact_phonebook||[]).push([[544],{9544:function(e,n,o){o.r(n);var c=o(184);n.default=function(){return(0,c.jsx)("main",{children:(0,c.jsx)("h1",{children:"Welcome to home page"})})}}}]);
+//# sourceMappingURL=544.813844a2.chunk.js.map
